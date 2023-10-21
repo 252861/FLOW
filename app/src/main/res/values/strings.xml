@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FLOW</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Sterowanie</string>
+    <string name="menu_gallery">Odczyty</string>
+    <string name="menu_slideshow">Informacje</string>
+
+    <string name="t_odczyty_biezace">Odczyty bieżące:</string>
+    <string name="t_wykresy">Wykresy:</string>
+    <string name="t_rekomendacje">Informacje</string>
+
+    <string name="temp">Temperatura: </string>
+    <string name="cisn">Ciśnienie: </string>
+    <string name="wilg">Wilgotność: </string>
+
+    <string name="j_temp"> °C </string>
+    <string name="j_cisn"> hPa </string>
+    <string name="j_wilg"> % </string>
+
+    <string name="status"> status </string>
+
+    <string name="def">text</string>
+</resources>
